@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/volatile/volatile.iml" filepath="$PROJECT_DIR$/volatile/volatile.iml" />
       <module fileurl="file://$PROJECT_DIR$/简单的死锁/简单的死锁.iml" filepath="$PROJECT_DIR$/简单的死锁/简单的死锁.iml" />
       <module fileurl="file://$PROJECT_DIR$/线程间通信/线程间通信.iml" filepath="$PROJECT_DIR$/线程间通信/线程间通信.iml" />
+      <module fileurl="file://$PROJECT_DIR$/马士兵AQS/马士兵AQS.iml" filepath="$PROJECT_DIR$/马士兵AQS/马士兵AQS.iml" />
     </modules>
   </component>
 </project>

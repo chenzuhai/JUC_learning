@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AQS/AQS.iml" filepath="$PROJECT_DIR$/AQS/AQS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CAS_demo01/CAS_demo01.iml" filepath="$PROJECT_DIR$/CAS_demo01/CAS_demo01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CAS_demo2/CAS_demo2.iml" filepath="$PROJECT_DIR$/CAS_demo2/CAS_demo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JUC/JUC.iml" filepath="$PROJECT_DIR$/JUC/JUC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/condition接口/condition接口.iml" filepath="$PROJECT_DIR$/condition接口/condition接口.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java内存模型/java内存模型.iml" filepath="$PROJECT_DIR$/java内存模型/java内存模型.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java并发编程的艺术.iml" filepath="$PROJECT_DIR$/.idea/java并发编程的艺术.iml" />
+      <module fileurl="file://$PROJECT_DIR$/synchronized/synchronized.iml" filepath="$PROJECT_DIR$/synchronized/synchronized.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread/thread.iml" filepath="$PROJECT_DIR$/thread/thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/volatile/volatile.iml" filepath="$PROJECT_DIR$/volatile/volatile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/简单的死锁/简单的死锁.iml" filepath="$PROJECT_DIR$/简单的死锁/简单的死锁.iml" />
+      <module fileurl="file://$PROJECT_DIR$/线程间通信/线程间通信.iml" filepath="$PROJECT_DIR$/线程间通信/线程间通信.iml" />
+    </modules>
+  </component>
+</project>

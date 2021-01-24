@@ -1,3 +1,4 @@
+import java.util.Arrays;
 import java.util.concurrent.locks.ReentrantLock;
 
 /**
@@ -17,11 +18,18 @@ public class AQS {
                 test();
             });
         }
+
+        Arrays.stream(threads).forEach((t)->t.start());
     }
 
     public  static void test(){
         reentrantLock.lock();
         System.out.println("1");
+        try {
+            Thread.sleep(10000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
         reentrantLock.unlock();
     }
 }

@@ -24,6 +24,7 @@ public class AQS {
 
     public  static void test(){
         reentrantLock.lock();
+//        reentrantLock.lockInterruptibly();
         System.out.println("1");
         try {
             Thread.sleep(10000);

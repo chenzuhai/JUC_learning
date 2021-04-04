@@ -6,10 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="AQS" />
-        <module name="condition接口" />
         <module name="java内存模型" />
+        <module name="AQS" />
         <module name="thread" />
+        <module name="condition接口" />
+        <module name="线程安全集合" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -17,6 +18,8 @@
       <module name="condition接口" target="1.5" />
       <module name="java内存模型" target="1.5" />
       <module name="thread" target="1.5" />
+      <module name="并发集合" target="8" />
+      <module name="线程安全集合" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>

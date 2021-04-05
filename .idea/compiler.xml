@@ -9,15 +9,17 @@
         <module name="java内存模型" />
         <module name="AQS" />
         <module name="thread" />
+        <module name="unsafe" />
         <module name="condition接口" />
         <module name="线程安全集合" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="AQS" target="1.5" />
+      <module name="AQS" target="8" />
       <module name="condition接口" target="1.5" />
       <module name="java内存模型" target="1.5" />
       <module name="thread" target="1.5" />
+      <module name="unsafe" target="8" />
       <module name="并发集合" target="8" />
       <module name="线程安全集合" target="8" />
     </bytecodeTargetLevel>

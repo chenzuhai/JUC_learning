@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/java并发编程的艺术.iml" filepath="$PROJECT_DIR$/.idea/java并发编程的艺术.iml" />
       <module fileurl="file://$PROJECT_DIR$/synchronized/synchronized.iml" filepath="$PROJECT_DIR$/synchronized/synchronized.iml" />
       <module fileurl="file://$PROJECT_DIR$/thread/thread.iml" filepath="$PROJECT_DIR$/thread/thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unsafe/unsafe.iml" filepath="$PROJECT_DIR$/unsafe/unsafe.iml" />
       <module fileurl="file://$PROJECT_DIR$/volatile/volatile.iml" filepath="$PROJECT_DIR$/volatile/volatile.iml" />
       <module fileurl="file://$PROJECT_DIR$/简单的死锁/简单的死锁.iml" filepath="$PROJECT_DIR$/简单的死锁/简单的死锁.iml" />
       <module fileurl="file://$PROJECT_DIR$/线程安全集合/线程安全集合.iml" filepath="$PROJECT_DIR$/线程安全集合/线程安全集合.iml" />

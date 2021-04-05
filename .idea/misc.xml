@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/condition接口/pom.xml" />
         <option value="$PROJECT_DIR$/java内存模型/pom.xml" />
         <option value="$PROJECT_DIR$/线程安全集合/pom.xml" />
+        <option value="$PROJECT_DIR$/unsafe/pom.xml" />
       </list>
     </option>
   </component>
